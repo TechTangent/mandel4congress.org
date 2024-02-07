@@ -84,19 +84,6 @@
     color: var(--bs-white) !important;
 }
 
-/*** Topbar Start ***/
-.sticky-top {
-    transition: 0.5s;
-    background: var(--bs-white);
-}
-
-.topbar {
-    padding: 10px 0;
-    background: var(--bs-secondary) !important;
-}
-
-/*** Topbar End ***/
-
 /*** Navbar Start ***/
 .navbar .navbar-nav .nav-link {
     padding: 10px 15px;

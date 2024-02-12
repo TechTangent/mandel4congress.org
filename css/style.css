@@ -256,6 +256,12 @@
 
 /*** About Start ***/
 /*** Youtube Video start ***/
+
+.youtube-video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+}
+
 .video {
     position: relative;
     padding-right: 70px; 

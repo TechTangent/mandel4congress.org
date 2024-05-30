@@ -1,6 +1,6 @@
 <?php 
 $errors = '';
-$myemail = 'akbar@mandel4congress.org';//<-----Put Your email address here.
+$myemail = 'info@mandel4congress.org';//<-----Put Your email address here.
 if(empty($_POST['name'])  || 
    empty($_POST['email']) ||
    empty($_POST['phone'])  || 

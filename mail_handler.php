@@ -6,7 +6,7 @@ $phone = $_POST['phone'];
 $subject= $_POST['subject'];
 $message= $_POST['message'];
  
-$toEmail = "webmaster@mandel4congress.org";
+$toEmail = "info@mandel4congress.org";
 $subject = "From Contact Us form M4C";
  
 // The following text will be sent
